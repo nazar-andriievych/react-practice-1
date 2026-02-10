@@ -1,9 +1,9 @@
 import React from 'react';
+import { Form } from './Form';
 
 export const App: React.FC = () => {
-
     return (
-        <div>Practice 1</div>
+        <Form />
     );
 };
 

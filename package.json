@@ -15,10 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "@sinclair/typebox": "^0.34.28",
-    "@types/react": "^19.0.8",
-    "@types/react-dom": "^19.0.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "ts-loader": "^9.5.2"
   },
   "devDependencies": {
@@ -29,6 +29,7 @@
     "@eslint/compat": "^1.2.5",
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.19.0",
+    "@types/node": "^25.2.3",
     "@typescript-eslint/eslint-plugin": "^8.22.0",
     "@typescript-eslint/parser": "^8.22.0",
     "babel-loader": "^9.2.1",
